@@ -1,6 +1,6 @@
 - 👋 Assalomu alaykum, Mening ismim Jaloliddin | jm7uz.
 - 👀 Mening qiziqishlarim tizimlarni avtomatlashtirish.
-- 🌱 Hozirda python va c# o'rganmoqdaman.
+- 🌱 Hozirda python va c# ishlayabman.
 - 📫 Telegram: https://t.me/jm7uz | Instagram: https://www.instagram.com/jm7uz
 
 <!---
